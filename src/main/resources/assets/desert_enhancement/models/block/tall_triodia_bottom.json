@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "desert_enhancement:blocks/tall_triodia_base",
+    "particle": "desert_enhancement:blocks/triodia"
+  }
+}

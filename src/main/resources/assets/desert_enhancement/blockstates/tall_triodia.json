@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "desert_enhancement:block/tall_triodia"
+    },
+    "half=lower": {
+      "model": "desert_enhancement:block/tall_triodia_bottom"
+    }
+  }
+}

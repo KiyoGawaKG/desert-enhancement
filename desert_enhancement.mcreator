@@ -1,0 +1,127 @@
+{
+  "mod_elements": [
+    {
+      "name": "Triodia",
+      "type": "plant",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "triodia"
+    },
+    {
+      "name": "TallGrass",
+      "type": "plant",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tall_triodia"
+    },
+    {
+      "name": "TriodiaLoot",
+      "type": "loottable",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "triodia_loot",
+      "path": "~/LootTables"
+    },
+    {
+      "name": "TallTriodiaLoot",
+      "type": "loottable",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tall_triodia_loot",
+      "path": "~/LootTables"
+    },
+    {
+      "name": "TriodiaMillet",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "triodia_millet",
+      "path": "~/Items"
+    },
+    {
+      "name": "TriodiaBread",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "triodia_bread",
+      "path": "~/Items"
+    },
+    {
+      "name": "TriodiaMilletRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "triodia_millet_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "TriodiaBreadRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "triodia_bread_recipe",
+      "path": "~/Recipes"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.desert_enhancement.triodia": "Triodia",
+      "item.desert_enhancement.triodia_millet": "Triodia Millet",
+      "item.desert_enhancement.triodia_bread": "Triodia Bread",
+      "block.desert_enhancement.tall_triodia": "Tall Triodia"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "LootTables",
+        "children": []
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": []
+      },
+      {
+        "name": "Recipes",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "desert_enhancement",
+    "modName": "Desert Enhancement",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib",
+      "allmods"
+    ],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "kg",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

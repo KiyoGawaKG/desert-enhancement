@@ -1,0 +1,98 @@
+{
+  "_fv": 33,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "tall_triodia_top",
+    "textureBottom": "tall_triodia_base",
+    "customModelName": "Cross model",
+    "itemTexture": "",
+    "particleTexture": "triodia",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "double",
+    "staticPlantGenerationType": "Grass",
+    "suspiciousStewEffect": "LEVITATION",
+    "suspiciousStewDuration": 160,
+    "growapableSpawnType": "Desert",
+    "growapableMaxHeight": 3,
+    "doublePlantGenerationType": "Grass",
+    "customBoundingBox": false,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 16.0,
+        "Mz": 16.0,
+        "subtract": false
+      }
+    ],
+    "name": "Tall Triodia",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "DECORATIONS"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isSolid": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": true,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": true,
+    "colorOnMap": "YELLOW",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 100,
+    "fireSpreadSpeed": 80,
+    "jumpFactor": 1.0,
+    "speedFactor": 0.8,
+    "canBePlacedOn": [
+      {
+        "value": "Blocks.SAND#0"
+      }
+    ],
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "desert"
+      }
+    ],
+    "patchSize": 22,
+    "generateAtAnyHeight": false
+  }
+}

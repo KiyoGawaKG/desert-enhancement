@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "desert_enhancement:triodia"
+    },
+    {
+      "item": "desert_enhancement:triodia"
+    },
+    {
+      "item": "desert_enhancement:triodia"
+    },
+    {
+      "item": "desert_enhancement:triodia"
+    }
+  ],
+  "result": {
+    "item": "desert_enhancement:triodia_millet",
+    "count": 2
+  }
+}
